@@ -52,7 +52,25 @@
 <img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-1-ticket-creation.png" width="70%">
 </p>
 
+<h3>2. Error (User Issue)</h3>
+<p align="center">
+<img src="LINK_TO_ERROR_IMAGE" width="70%">
+</p>
 
+<h3>3. Root Cause (Permissions Issue)</h3>
+<p align="center">
+<img src="LINK_TO_PERMISSIONS_IMAGE" width="70%">
+</p>
+
+<h3>4. Fix Applied</h3>
+<p align="center">
+<img src="LINK_TO_FIX_IMAGE" width="70%">
+</p>
+
+<h3>5. Ticket Resolution</h3>
+<p align="center">
+<img src="LINK_TO_RESOLVED_TICKET_IMAGE" width="70%">
+</p>
 
 
 
