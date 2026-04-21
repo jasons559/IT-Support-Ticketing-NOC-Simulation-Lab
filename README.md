@@ -43,9 +43,20 @@
 <p>This project reflects hands-on experience troubleshooting real IT issues in a controlled lab environment, with a focus on repeatable processes and clear documentation.</p>
 
 
+# Ticket #22 – Folder Access Denied
 
-<h2>Screenshots</h2>
-<h2>Ticket #22 – Folder Access Denied</h2>
+## Issue
+User unable to access folder. Received "Access Denied" error.
+
+## Troubleshooting
+- Checked folder permissions
+- Attempted GUI fix (failed)
+- Identified broken NTFS permissions
+
+## Resolution
+- Used takeown to regain ownership
+- Used icacls to reset permissions
+- Verified access restored
 
 <h3>1. Ticket Creation</h3>
 <p align="center">
