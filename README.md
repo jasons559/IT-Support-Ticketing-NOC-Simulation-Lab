@@ -45,26 +45,16 @@
 
 
 <h2>Screenshots</h2>
+<h2>Ticket #22 – Folder Access Denied</h2>
 
+<h3>1. Ticket Creation</h3>
 <p align="center">
-Network Diagram: <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Network_Diagram.png" height="80%" width="80%" 
-<br />
-<br />
-BIND9 Configuration:  <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/5ff34cebc35763c97b430deda6aef54414b8e95f/images/BIND9_Configuration.png" height="80%" width="80%" 
-<br />
-<br />
-Successful DNS Query: <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Successful_DNS_Query.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Reverse DNS Query:  <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Reverse_DNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-
-
+<img src="LINK_TO_TICKET_CREATION_IMAGE" width="70%">
 </p>
+
+
+
+
+
+
 
