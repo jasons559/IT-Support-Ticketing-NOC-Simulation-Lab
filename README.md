@@ -127,28 +127,28 @@ Reconfigured the shared folder by enabling network sharing and applying the corr
 
 <h4>3. Unmapped / Disconnected Drive</h4>
 <p align="center">
-<img src="images/ticket24_3_unmapped_drive.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_3_Unmappd_Drive.png" width="65%">
 <br>
 <em>Network drive appears disconnected or unavailable in File Explorer.</em>
 </p>
 
 <h4>4. Broken Sharing / Permissions</h4>
 <p align="center">
-<img src="images/ticket24_4_permissions_broken.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_4_Security_Tab__permissions_broken_.png" width="65%">
 <br>
 <em>Shared folder is not properly configured for network access (not shared / missing permissions).</em>
 </p>
 
 <h4>5. Permissions Fixed (Folder Shared)</h4>
 <p align="center">
-<img src="images/ticket24_5_permissions_fixed.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_5_Permissions_Fixed_Shared_Folder.png" width="65%">
 <br>
 <em>Folder sharing enabled and permissions correctly configured.</em>
 </p>
 
 <h4>6. Mapped Drive Restored</h4>
 <p align="center">
-<img src="images/ticket24_6_mapped_drive.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_6_Mapped_Drive_Restored.png" width="65%">
 <br>
 <em>Network drive successfully mapped and accessible after applying fixes.</em>
 </p>
