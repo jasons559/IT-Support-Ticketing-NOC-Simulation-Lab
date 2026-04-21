@@ -1,9 +1,8 @@
 # IT-Support-Ticketing-NOC-Simulation-Lab
 <h2>Description</h2>
 
-<p>This project simulates a small enterprise-style data center environment using virtualized Linux and Windows systems. The lab focuses on core infrastructure services including DNS, IP configuration, and network troubleshooting within a controlled environment.
-
-The objective was to gain hands-on experience with Linux-based system administration and internal DNS services, while reinforcing networking fundamentals used in real-world NOC and infrastructure roles.</p>
+<p>This project This project simulates real-world IT support and NOC (Network Operations Center) scenarios using a ticketing system approach.
+</p>
 
 
 <b>Environment & Technologies</b>
