@@ -61,6 +61,8 @@ User unable to access folder. Received "Access Denied" error.
 <h3>1. Ticket Creation</h3>
 <p align="center">
 <img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-1-ticket-creation.png" width="70%">
+ <br>
+<em>User submitted ticket reporting "Access Denied" error when attempting to open a restricted folder.</em>
 </p>
 
 <h3>2. Error (User Issue)</h3>
@@ -73,11 +75,15 @@ User unable to access folder. Received "Access Denied" error.
 <h3>3. Root Cause (Permissions Issue)</h3>
 <p align="center">
 <img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-3-root-cause-(permissions).png" width="65%">
+ <br>
+ <em>Folder security settings reveal missing or restrictive permissions preventing user access.</em>
 </p>
 
 <h3>4. Fix Applied</h3>
 <p align="center">
 <img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-4-fix-applied.png" width="65%">
+ <br>
+ <em>Permissions updated to grant appropriate access, resolving the restriction.</em>
 </p>
 
 <h3>5. Ticket Resolution</h3>
