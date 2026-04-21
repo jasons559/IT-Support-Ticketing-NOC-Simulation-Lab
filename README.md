@@ -67,6 +67,10 @@ User unable to access folder. Received "Access Denied" error.
 <p align="center">
 <img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-2-error-(User-issue).png" width="65%">
 </p>
+<p align="center">
+<br>
+<em>User receives "Access Denied" when opening restricted folder.</em>
+</p>
 
 <h3>3. Root Cause (Permissions Issue)</h3>
 <p align="center">
