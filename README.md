@@ -22,11 +22,13 @@
  <li>Ticket Documentation & Communication</li>
 </ul>
 
-<b>Networking & Tools</b>
+<b>Tools Used</b>
 <ul>
-<li>TCP/IP, Static Addressing</li>
-<li>ip,ping,dig,resolvectl</li>
- <li>Virtualized networking</li>
+<li>Windows 10/11 Virtual Machine</li>
+<li>Active Directory Environment(CORP Domain)</li>
+ <li>Remote Desktop</li>
+ <li>File Explorer/NFTS Permissions</li>
+ <li>Command Prompt (takeown, icacls, gpupdate)</li>
 </ul>
 
 <b>Key Configurations</b>
