@@ -192,28 +192,28 @@ User was guided through password reset process and successfully regained access 
 
 <h4>1. Ticket Creation</h4>
 <p align="center">
-<img src="images/ticket11_1_creation.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_11_1_Creation.png" width="65%">
 <br>
 <em>User submits ticket reporting login issue.</em>
 </p>
 
 <h4>2. Failed Login Attempt</h4>
 <p align="center">
-<img src="images/ticket11_2_failed_login.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_11_2_Failed_Login_Attempt.png" width="65%">
 <br>
 <em>System displays error indicating incorrect credentials.</em>
 </p>
 
 <h4>3. Password Reset Option</h4>
 <p align="center">
-<img src="images/ticket11_3_password_option.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_11_3_Password_Reset_Option.png" width="65%">
 <br>
 <em>Password reset option available on login screen.</em>
 </p>
 
 <h4>4. Ticket Resolution</h4>
 <p align="center">
-<img src="images/ticket11_4_resolved.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_11_4_Resolution.png" width="65%">
 <br>
 <em>Issue resolved after guiding user through credential update process.</em>
 </p>
