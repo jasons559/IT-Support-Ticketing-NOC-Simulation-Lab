@@ -108,7 +108,7 @@ Renewed IP address and reset network adapter. Connectivity restored successfully
 
 <h4>1. Ticket Creation</h4>
 <p align="center">
-<img src="images/ticket24_1_creation.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_1_Ticket_Creation.png" width="65%">
 </p>
 
 <h4>2. No Network Connection</h4>
