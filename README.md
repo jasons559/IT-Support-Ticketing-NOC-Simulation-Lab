@@ -32,14 +32,12 @@
 </ul>
 
 <b>Ticket Examples</b>
-<ul>
-<li>Configured static IP addressing using Netplan</li>
-<li>Deployed and configured BIND9 DNS server</li>
- <li>Created forward and reverse lookup zones</li>
- <li>Enabled internal name resolution between systems</li>
- <li>Managed DNS and system services using systemctl</li>
- <li>Configured client system to use internal DNS server</li>
-</ul>
+| Ticket # | Issue | Category |
+|--------|------|---------|
+| 22 | Folder Access Denied | Permissions |
+| 24 | Unable to Map Network Drive | Networking |
+| 11 | Password Reset | Active Directory |
+| 12 | Account Lockout | Security |
 
 <b>Troubleshooting & Validation</b>
 <ul>
