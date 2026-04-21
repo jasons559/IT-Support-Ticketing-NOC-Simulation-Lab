@@ -83,52 +83,79 @@ User unable to access folder. Received "Access Denied" error.
 <img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-5-ticket-resolution.png" width="65%">
 </p>
 
-<h2>Ticket #24 – Network Connectivity Issue</h2>
+<h2>Ticket #24 – Incorrect Access to Network Shared Drive</h2>
 
 <h3>Issue</h3>
 <p>
-User reports they are unable to access internal and external network resources. No internet connectivity is available.
+User reported being unable to access a shared network drive. The drive either appeared disconnected or was not accessible due to incorrect or missing permissions.
+</p>
+
+<h3>Root Cause</h3>
+<p>
+The shared folder was not properly configured for network sharing, and permissions were either missing or incorrectly set. As a result, the mapped drive could not establish a valid connection.
 </p>
 
 <h3>Troubleshooting Steps</h3>
 <ul>
-<li>Verified physical network connection (Ethernet cable connected)</li>
-<li>Checked IP configuration using <code>ipconfig</code></li>
-<li>Attempted to ping default gateway</li>
-<li>Tested DNS resolution using <code>nslookup</code></li>
-<li>Restarted network adapter</li>
+<li>Verified that the network drive was missing or displayed as disconnected in File Explorer</li>
+<li>Attempted to access the shared folder directly via network path</li>
+<li>Reviewed folder sharing settings under the <strong>Sharing</strong> tab</li>
+<li>Checked Security permissions to confirm user access rights</li>
+<li>Identified that the folder was not properly shared and permissions were not applied</li>
 </ul>
 
 <h3>Resolution</h3>
 <p>
-Renewed IP address and reset network adapter. Connectivity restored successfully.
+Reconfigured the shared folder by enabling network sharing and applying the correct permissions. The network drive was then successfully mapped, restoring user access.
 </p>
 
 <h3>Screenshots</h3>
 
 <h4>1. Ticket Creation</h4>
 <p align="center">
-<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_1_Ticket_Creation.png" width="65%">
+<img src="images/ticket24_1_creation.png" width="65%">
+<br>
+<em>Initial support ticket submitted by user reporting inability to access shared drive.</em>
 </p>
 
-<h4>2. No Network Connection</h4>
+<h4>2. Mapping Attempt Error</h4>
 <p align="center">
-<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_2_mapping_attempt_error.png" width="65%">
+<img src="images/ticket24_2_error.png" width="65%">
+<br>
+<em>Error encountered when attempting to access or map the network drive.</em>
 </p>
 
-<h4>3. IP Configuration Check</h4>
+<h4>3. Unmapped / Disconnected Drive</h4>
 <p align="center">
-<img src="images/ticket24_3_ipconfig.png" width="65%">
+<img src="images/ticket24_3_unmapped_drive.png" width="65%">
+<br>
+<em>Network drive appears disconnected or unavailable in File Explorer.</em>
 </p>
 
-<h4>4. Troubleshooting (Ping Failure)</h4>
+<h4>4. Broken Sharing / Permissions</h4>
 <p align="center">
-<img src="images/ticket24_4_ping_test.png" width="65%">
+<img src="images/ticket24_4_permissions_broken.png" width="65%">
+<br>
+<em>Shared folder is not properly configured for network access (not shared / missing permissions).</em>
 </p>
 
-<h4>5. Resolution (Connection Restored)</h4>
+<h4>5. Permissions Fixed (Folder Shared)</h4>
 <p align="center">
-<img src="images/ticket24_5_resolved.png" width="65%">
+<img src="images/ticket24_5_permissions_fixed.png" width="65%">
+<br>
+<em>Folder sharing enabled and permissions correctly configured.</em>
+</p>
+
+<h4>6. Mapped Drive Restored</h4>
+<p align="center">
+<img src="images/ticket24_6_mapped_drive.png" width="65%">
+<br>
+<em>Network drive successfully mapped and accessible after applying fixes.</em>
+</p>
+
+<h3>Outcome</h3>
+<p>
+User confirmed access to the shared network drive was successfully restored. No further issues reported.
 </p>
 
 
