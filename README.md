@@ -223,4 +223,58 @@ User was guided through password reset process and successfully regained access 
 User confirmed successful login after updating credentials.
 </p>
 
+<h2>Ticket #12 – User Account Locked / Login Failure</h2>
+
+<h3>Issue</h3>
+<p>
+User reported inability to log in after multiple failed attempts.
+</p>
+
+<h3>Troubleshooting Steps</h3>
+<ul>
+<li>Observed repeated failed login attempts</li>
+<li>Confirmed issue was related to incorrect credentials</li>
+<li>Advised user to verify credentials and retry login</li>
+<li>Ensured no system errors were preventing authentication</li>
+</ul>
+
+<h3>Resolution</h3>
+<p>
+User successfully regained access after correcting login credentials.
+</p>
+
+<h3>Screenshots</h3>
+
+<h4>1. Ticket Creation</h4>
+<p align="center">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_12_1_Creation.png" width="65%">
+<br>
+<em>User reports inability to access account.</em>
+</p>
+
+<h4>2. Failed Login Attempt</h4>
+<p align="center">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_12_2_Failed_Login.png" width="65%">
+<br>
+<em>Login failure due to incorrect credentials.</em>
+</p>
+
+<h4>3. Login Screen</h4>
+<p align="center">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_12_3_Login_Screen.png" width="65%">
+<br>
+<em>User prompted to re-enter credentials.</em>
+</p>
+
+<h4>4. Ticket Resolution</h4>
+<p align="center">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_11_4_Resolution.png" width="65%">
+<br>
+<em>Issue resolved after correcting login information.</em>
+</p>
+
+<h3>Outcome</h3>
+<p>
+User confirmed successful login after issue was resolved.
+</p>
 
