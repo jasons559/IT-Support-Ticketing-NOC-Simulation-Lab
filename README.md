@@ -59,17 +59,17 @@
 
 <h3>3. Root Cause (Permissions Issue)</h3>
 <p align="center">
-<img src="" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-3-root-cause-(permissions).png" width="65%">
 </p>
 
 <h3>4. Fix Applied</h3>
 <p align="center">
-<img src="LINK_TO_FIX_IMAGE" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-4-fix-applied.png" width="65%">
 </p>
 
 <h3>5. Ticket Resolution</h3>
 <p align="center">
-<img src="LINK_TO_RESOLVED_TICKET_IMAGE" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-5-ticket-resolution.png" width="65%">
 </p>
 
 
