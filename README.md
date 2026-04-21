@@ -158,5 +158,67 @@ Reconfigured the shared folder by enabling network sharing and applying the corr
 User confirmed access to the shared network drive was successfully restored. No further issues reported.
 </p>
 
+<h3>Skills Demonstrated</h3>
+<ul>
+<li>Network Drive Mapping</li>
+<li>File Sharing & Permissions (NTFS & Share)</li>
+<li>Windows File System Troubleshooting</li>
+<li>End-User Support & Issue Resolution</li>
+</ul>
+
+<h2>Ticket #11 – User Unable to Log In</h2>
+
+<h3>Issue</h3>
+<p>
+User reported inability to log into their account due to incorrect password.
+</p>
+
+<h3>Troubleshooting Steps</h3>
+<ul>
+<li>Verified login attempt resulted in authentication failure</li>
+<li>Confirmed username was entered correctly</li>
+<li>Reviewed available password reset options on login screen</li>
+<li>Guided user through password reset process</li>
+</ul>
+
+<h3>Resolution</h3>
+<p>
+User was guided through password reset process and successfully regained access to their account.
+</p>
+
+<h3>Screenshots</h3>
+
+<h4>1. Ticket Creation</h4>
+<p align="center">
+<img src="images/ticket11_1_creation.png" width="65%">
+<br>
+<em>User submits ticket reporting login issue.</em>
+</p>
+
+<h4>2. Failed Login Attempt</h4>
+<p align="center">
+<img src="images/ticket11_2_failed_login.png" width="65%">
+<br>
+<em>System displays error indicating incorrect credentials.</em>
+</p>
+
+<h4>3. Password Reset Option</h4>
+<p align="center">
+<img src="images/ticket11_3_password_option.png" width="65%">
+<br>
+<em>Password reset option available on login screen.</em>
+</p>
+
+<h4>4. Ticket Resolution</h4>
+<p align="center">
+<img src="images/ticket11_4_resolved.png" width="65%">
+<br>
+<em>Issue resolved after guiding user through credential update process.</em>
+</p>
+
+<h3>Outcome</h3>
+<p>
+User confirmed successful login after updating credentials.
+</p>
 
 
