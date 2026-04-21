@@ -113,7 +113,7 @@ Renewed IP address and reset network adapter. Connectivity restored successfully
 
 <h4>2. No Network Connection</h4>
 <p align="center">
-<img src="images/ticket24_2_no_connection.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_2_mapping_attempt_error.png" width="65%">
 </p>
 
 <h4>3. IP Configuration Check</h4>
