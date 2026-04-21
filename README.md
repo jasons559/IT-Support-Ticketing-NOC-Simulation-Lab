@@ -39,39 +39,12 @@
 | 11 | Password Reset | Active Directory |
 | 12 | Account Lockout | Security |
 
-<b>Troubleshooting & Validation</b>
-<ul>
-<li>Diagnosed DNS resolution failures using dig and system logs</li>
-<li>Verified reverse DNS lookups using PTR records</li>
- <li>Troubleshot network connectivity and interface issues using ip and ping</li>
- <li>Flushed DNS cache using resolvectl to validate changes</li>
- <li>Managed DNS and system services using systemctl</li>
- <li>Performed end-to-end connectivity testing between Linux server and Windows client</li>
-</ul>
-
-
+<b>Key Takeaways</b>
+<p>This project reflects hands-on experience troubleshooting real IT issues in a controlled lab environment, with a focus on repeatable processes and clear documentation.</p>
 
 
 
 <h2>Screenshots</h2>
-
-<b>Key Takeaways</b>
-<ul>
-<li>Strengthened understanding of DNS infrastructure and name resolution</li>
-<li>Gained hands-on experience with Linux system administration</li>
- <li>Improved troubleshooting methodology for network and service-related issues</li>
- <li>Built practical skills aligned with NOC and entry-level system administration roles</li>
- </ul>
-
-<b>Future Improvements</b>
-<ul>
-<li>Add DHCP service for dynamic IP assignment</li>
-<li>Implement firewall rules (UFW) for network segmentation</li>
- <li>Expand to multi-server environment (web server, monitoring tools)</li>
- </ul>
-
-
-
 
 <p align="center">
 Network Diagram: <br/>
