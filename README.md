@@ -1,8 +1,8 @@
 # IT-Support-Ticketing-NOC-Simulation-Lab
 <h2>Description</h2>
 
-<p>This project simulates real-world IT support and NOC (Network Operations Center) scenarios using a ticketing system approach.The goal of this project is to demonstrate practical IT support skills, structured problem-solving, and clear technical communication.</p>
-<p>Each ticket documents a common IT issue, including: 
+<p>This project simulates real-world IT support and NOC (Network Operations Center) scenarios, using a ticketing system approach.The goal of this project is to demonstrate practical IT support skills, structured problem-solving, and clear technical communication.</p>
+<p>Project consists of over 25 support tickets. Each of the 4 example tickets, documents a common IT issue including: 
 <ul>
 <li>User Reported Problem</li>
 <li>Troubleshooting Steps</li>
