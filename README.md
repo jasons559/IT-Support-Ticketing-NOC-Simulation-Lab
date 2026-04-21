@@ -31,7 +31,7 @@
  <li>Command Prompt (takeown, icacls, gpupdate)</li>
 </ul>
 
-<b>Key Configurations</b>
+<b>Ticket Examples</b>
 <ul>
 <li>Configured static IP addressing using Netplan</li>
 <li>Deployed and configured BIND9 DNS server</li>
