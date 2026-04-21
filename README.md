@@ -49,7 +49,7 @@
 
 <h3>1. Ticket Creation</h3>
 <p align="center">
-<img src="LINK_TO_TICKET_CREATION_IMAGE" width="70%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-1-ticket-creation.png" width="70%">
 </p>
 
 
