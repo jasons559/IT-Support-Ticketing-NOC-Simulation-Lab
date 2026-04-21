@@ -1,24 +1,25 @@
 # IT-Support-Ticketing-NOC-Simulation-Lab
 <h2>Description</h2>
 
-<p>This project simulates real-world IT support and NOC (Network Operations Center) scenarios using a ticketing system approach.
-Each ticket documents a common IT issue, including:</p>
- <ul>
+<p>This project simulates real-world IT support and NOC (Network Operations Center) scenarios using a ticketing system approach.The goal of this project is to demonstrate practical IT support skills, structured problem-solving, and clear technical communication.</p>
+<p>Each ticket documents a common IT issue, including: 
+<ul>
 <li>User Reported Problem</li>
 <li>Troubleshooting Steps</li>
  <li>Root cause analysis</li>
  <li>Resolution Process</li>
 </ul>
-<p>The goal of this project is to demonstrate practical IT support skills, structured problem-solving, and clear technical communication.
 </p>
 
-
-<b>Environment & Technologies</b>
+<b>Skills Demonstrated</b>
 <ul>
-<li>Ubuntu Server (DNS+ system administration</li>
-<li>BIND9 (DNS server)</li>
- <li>Netplan (network configuration)</li>
- <li>systemd (service configuration)</li>
+<li>Active Directory (User & Account Management</li>
+<li>Windows Administration</li>
+ <li>NFTS Permissions & File Access Troubleshooting</li>
+ <li>Network Drive Mapping (UNC Paths)</li>
+  <li>Group Policy (GPO) Basics</li>
+  <li>Troubleshooting Methodology</li>
+ <li>Ticket Documentation & Communication</li>
 </ul>
 
 <b>Networking & Tools</b>
