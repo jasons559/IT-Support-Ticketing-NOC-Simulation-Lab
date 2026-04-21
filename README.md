@@ -43,7 +43,7 @@
 <p>This project reflects hands-on experience troubleshooting real IT issues in a controlled lab environment, with a focus on repeatable processes and clear documentation.</p>
 
 
-# Ticket #22 – Folder Access Denied
+<h2>Ticket #22 – Folder Access Denied</h2>
 
 ## Issue
 User unable to access folder. Received "Access Denied" error.
@@ -83,7 +83,53 @@ User unable to access folder. Received "Access Denied" error.
 <img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/ticket-22-5-ticket-resolution.png" width="65%">
 </p>
 
+<h2>Ticket #24 – Network Connectivity Issue</h2>
 
+<h3>Issue</h3>
+<p>
+User reports they are unable to access internal and external network resources. No internet connectivity is available.
+</p>
+
+<h3>Troubleshooting Steps</h3>
+<ul>
+<li>Verified physical network connection (Ethernet cable connected)</li>
+<li>Checked IP configuration using <code>ipconfig</code></li>
+<li>Attempted to ping default gateway</li>
+<li>Tested DNS resolution using <code>nslookup</code></li>
+<li>Restarted network adapter</li>
+</ul>
+
+<h3>Resolution</h3>
+<p>
+Renewed IP address and reset network adapter. Connectivity restored successfully.
+</p>
+
+<h3>Screenshots</h3>
+
+<h4>1. Ticket Creation</h4>
+<p align="center">
+<img src="images/ticket24_1_creation.png" width="65%">
+</p>
+
+<h4>2. No Network Connection</h4>
+<p align="center">
+<img src="images/ticket24_2_no_connection.png" width="65%">
+</p>
+
+<h4>3. IP Configuration Check</h4>
+<p align="center">
+<img src="images/ticket24_3_ipconfig.png" width="65%">
+</p>
+
+<h4>4. Troubleshooting (Ping Failure)</h4>
+<p align="center">
+<img src="images/ticket24_4_ping_test.png" width="65%">
+</p>
+
+<h4>5. Resolution (Connection Restored)</h4>
+<p align="center">
+<img src="images/ticket24_5_resolved.png" width="65%">
+</p>
 
 
 
