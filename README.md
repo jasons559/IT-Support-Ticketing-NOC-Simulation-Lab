@@ -113,14 +113,14 @@ Reconfigured the shared folder by enabling network sharing and applying the corr
 
 <h4>1. Ticket Creation</h4>
 <p align="center">
-<img src="images/ticket24_1_creation.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_1_Ticket_Creation.png" width="65%">
 <br>
 <em>Initial support ticket submitted by user reporting inability to access shared drive.</em>
 </p>
 
 <h4>2. Mapping Attempt Error</h4>
 <p align="center">
-<img src="images/ticket24_2_error.png" width="65%">
+<img src="https://github.com/jasons559/IT-Support-Ticketing-NOC-Simulation-Lab/blob/main/images/Ticket_24_2_mapping_attempt_error.png" width="65%">
 <br>
 <em>Error encountered when attempting to access or map the network drive.</em>
 </p>
